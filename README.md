@@ -290,7 +290,7 @@ This will launch a web interface for extracting and storing delivery details.
 ### **Table Plus Setup Guide**  
 For detailed instructions on setting up **Table Plus** to connect with Azure-hosted databases, refer to the guide below:  
 
-[Table Plus Setup Guide](https://github.com/AjinkyaSambare/StoreStructuredData/blob/main/Table%20Plus%20Setup.pdf)
+**[Table Plus Setup Guide](https://github.com/AjinkyaSambare/StoreStructuredData/blob/main/Table%20Plus%20Setup.pdf)**
 ---
 ## **Conclusion**
 This script automates **delivery email processing**, integrates with **Azure OpenAI**, and stores extracted data in an **Azure SQL Database** using **Streamlit UI**. It is designed for easy deployment in **GitHub Codespaces**.
